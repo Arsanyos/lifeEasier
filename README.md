@@ -5,4 +5,4 @@ Cheers :).
 
 ---
 
-Kindly and most humbly don't tweak with existing files, if you belive you can add a feature create a PR.
+Kindly and most humbly don't tweak with existing files, if there are changes you want to make, create a PR.!
